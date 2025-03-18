@@ -41,10 +41,6 @@ A simple and efficient File Downloader application built using **HTML, CSS, Java
 2. Click the **Download** button.
 3. The file will be downloaded to your local system.
 
-## 📷 Screenshots
-
-_Include screenshots of your application here._
-
 ## 📝 License
 
 This project is **open-source** and available under the MIT License.
